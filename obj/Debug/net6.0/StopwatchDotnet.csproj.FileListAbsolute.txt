@@ -1,0 +1,15 @@
+C:\pessoal\StopwatchDotnet\bin\Debug\net6.0\StopwatchDotnet.exe
+C:\pessoal\StopwatchDotnet\bin\Debug\net6.0\StopwatchDotnet.deps.json
+C:\pessoal\StopwatchDotnet\bin\Debug\net6.0\StopwatchDotnet.runtimeconfig.json
+C:\pessoal\StopwatchDotnet\bin\Debug\net6.0\StopwatchDotnet.dll
+C:\pessoal\StopwatchDotnet\bin\Debug\net6.0\StopwatchDotnet.pdb
+C:\pessoal\StopwatchDotnet\obj\Debug\net6.0\StopwatchDotnet.csproj.AssemblyReference.cache
+C:\pessoal\StopwatchDotnet\obj\Debug\net6.0\StopwatchDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\pessoal\StopwatchDotnet\obj\Debug\net6.0\StopwatchDotnet.AssemblyInfoInputs.cache
+C:\pessoal\StopwatchDotnet\obj\Debug\net6.0\StopwatchDotnet.AssemblyInfo.cs
+C:\pessoal\StopwatchDotnet\obj\Debug\net6.0\StopwatchDotnet.csproj.CoreCompileInputs.cache
+C:\pessoal\StopwatchDotnet\obj\Debug\net6.0\StopwatchDotnet.dll
+C:\pessoal\StopwatchDotnet\obj\Debug\net6.0\refint\StopwatchDotnet.dll
+C:\pessoal\StopwatchDotnet\obj\Debug\net6.0\StopwatchDotnet.pdb
+C:\pessoal\StopwatchDotnet\obj\Debug\net6.0\StopwatchDotnet.genruntimeconfig.cache
+C:\pessoal\StopwatchDotnet\obj\Debug\net6.0\ref\StopwatchDotnet.dll
